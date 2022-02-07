@@ -43,4 +43,7 @@ fi
 fix-permissions ./
 
 
-
+#cp -RF /tmp/src/*.html  ./
+#DATE=$(date "+%F")
+#echo "---> creating the info file"
+#echo "$DATE  txt in the question" >> ./info.html 
