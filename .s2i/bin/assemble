@@ -42,7 +42,3 @@ fi
 # Fix source directory permissions
 fix-permissions ./
 
-#cp -RF /tmp/src/*.html  ./
-#DATE=$(date "+%F")
-#echo "---> creating info file"
-#echo "$DATE Some text given in exam" >> ./info.html  
